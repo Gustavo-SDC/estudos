@@ -1,0 +1,11 @@
+{
+  "name": "sistema_de_imoveis",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto em react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Santos de Campos",
+  "license": "ISC"
+}
